@@ -1,1 +1,1 @@
-# Frequency-Counter-Pattern
+# Frequency Counter Pattern
